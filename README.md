@@ -5,7 +5,11 @@
 ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=spinolagab&show_icons=true&theme=tokyonight)
 
 ## 👤❓ Sobre Mim:
-Sou aluno de Ciência da Computação na Universidade Presbiteriana Mackenzie. Atualmente estou no 4º semestre do curso e esse é o lugar onde posto projetos exigidos no curso e alguns projetos próprios de vez em quando.
+Sou aluno de Ciência da Computação na Universidade Presbiteriana Mackenzie. Atualmente estou no 4º semestre do curso e esse é o lugar onde posto projetos exigidos no curso e alguns projetos próprios de vez em quando. No momento estou procurando estágio.
+
+- ### Aprendendo:
+      Linux
+      Cloud
 
 - ### Idiomas:
     Português - Nativo
