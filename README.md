@@ -18,6 +18,8 @@ Sou aluno de Ciência da Computação na Universidade Presbiteriana Mackenzie. A
     Inglês - Fluente
     \
     Espanhol - Básico
+    \
+    Alemão - Básico
 
 
 
